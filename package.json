@@ -1,0 +1,23 @@
+{
+    "name": "profilegenerator",
+    "version": "1.0.0",
+    "description": "Add employees with their information",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "inquirer": "^7.3.3",
+        "jest": "^26.5.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ashwarters/profilegenerator.git"
+    },
+    "author": "Ashley Warters",
+    "license": "ISC"
+}
